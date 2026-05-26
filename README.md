@@ -203,3 +203,7 @@ Este repositorio está organizado por módulos y submódulos. Cada README incluy
 
 *Cuaderno creado como material de estudio complementario al curso oficial de Cisco NetAcad.*  
 *Última actualización: 2025*
+
+<div align="center">
+  <p>✨ Hecho con ❤️ por <strong>AdrC21</strong> ✨</p>
+</div>
